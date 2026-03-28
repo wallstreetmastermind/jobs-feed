@@ -1,6 +1,6 @@
 {
   "feedId": "wsmm-high-finance",
-  "updatedAt": "2026-03-28T05:52:59Z",
+  "updatedAt": "2026-03-28T14:23:36Z",
   "jobs": [
     {
       "jobId": "wsmm-workday-77cabeed",
@@ -13,7 +13,7 @@
       "deadline": null,
       "salary": "$125,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -36,7 +36,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -59,7 +59,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -82,7 +82,7 @@
       "deadline": null,
       "salary": "$130,000 - $200,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -105,7 +105,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -128,7 +128,7 @@
       "deadline": null,
       "salary": "$110,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -151,7 +151,7 @@
       "deadline": null,
       "salary": "$110,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -174,7 +174,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -197,7 +197,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -220,7 +220,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -243,7 +243,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -266,7 +266,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -289,7 +289,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -312,7 +312,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -335,7 +335,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -358,7 +358,7 @@
       "deadline": null,
       "salary": "$120,000 - $130,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -381,7 +381,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -404,7 +404,7 @@
       "deadline": null,
       "salary": "$120,000 - $250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -427,7 +427,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -450,7 +450,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -473,7 +473,7 @@
       "deadline": null,
       "salary": "$120,000 - $130,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -496,7 +496,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -519,7 +519,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -542,7 +542,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -565,7 +565,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -588,7 +588,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -611,7 +611,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -634,7 +634,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -657,7 +657,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -680,7 +680,7 @@
       "deadline": null,
       "salary": "$120,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -703,7 +703,7 @@
       "deadline": null,
       "salary": "$190,000 - $300,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -726,7 +726,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -749,7 +749,7 @@
       "deadline": null,
       "salary": "$150,000 - $275,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -772,7 +772,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -795,7 +795,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -818,7 +818,7 @@
       "deadline": null,
       "salary": "$120,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -841,7 +841,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -864,7 +864,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -887,7 +887,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -910,7 +910,7 @@
       "deadline": null,
       "salary": "$123/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -934,7 +934,7 @@
       "deadline": null,
       "salary": "$123/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -958,7 +958,7 @@
       "deadline": null,
       "salary": "$97,750 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -982,7 +982,7 @@
       "deadline": null,
       "salary": "$160,000 - $200,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1006,7 +1006,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1030,7 +1030,7 @@
       "deadline": null,
       "salary": "$150,000 - $190,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1054,7 +1054,7 @@
       "deadline": null,
       "salary": "$800,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1078,7 +1078,7 @@
       "deadline": null,
       "salary": "$800,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1102,7 +1102,7 @@
       "deadline": null,
       "salary": "$800,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1126,7 +1126,7 @@
       "deadline": null,
       "salary": "$800,000",
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1150,7 +1150,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -1174,7 +1174,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -1198,7 +1198,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -1222,7 +1222,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -1246,7 +1246,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1270,7 +1270,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1294,7 +1294,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1318,7 +1318,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1342,7 +1342,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1366,7 +1366,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1390,7 +1390,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1414,7 +1414,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1438,7 +1438,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1462,7 +1462,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1486,7 +1486,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1510,7 +1510,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1534,7 +1534,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1558,7 +1558,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1582,7 +1582,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1606,7 +1606,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1630,7 +1630,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1654,7 +1654,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1678,7 +1678,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1702,7 +1702,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1726,7 +1726,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1750,7 +1750,7 @@
       "deadline": null,
       "salary": "$250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1774,7 +1774,7 @@
       "deadline": null,
       "salary": "$250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1798,7 +1798,7 @@
       "deadline": null,
       "salary": "$850,000",
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1822,7 +1822,7 @@
       "deadline": null,
       "salary": "$850,000",
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1846,7 +1846,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1870,7 +1870,7 @@
       "deadline": null,
       "salary": "$110,000 - $110,000",
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -1894,7 +1894,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -1918,7 +1918,7 @@
       "deadline": null,
       "salary": "$140,000 - $155,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -1942,7 +1942,7 @@
       "deadline": null,
       "salary": "$140,000 - $155,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -1966,7 +1966,7 @@
       "deadline": null,
       "salary": "$30/hr - $30/hr",
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -1990,7 +1990,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2014,7 +2014,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2038,7 +2038,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2062,7 +2062,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2086,7 +2086,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2110,7 +2110,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2134,7 +2134,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2158,7 +2158,7 @@
       "deadline": null,
       "salary": "$175,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2182,7 +2182,7 @@
       "deadline": null,
       "salary": "$175,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2206,7 +2206,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2230,7 +2230,7 @@
       "deadline": null,
       "salary": "$200,000 - $200,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2254,7 +2254,7 @@
       "deadline": null,
       "salary": "$200,000 - $200,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2278,7 +2278,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2302,7 +2302,7 @@
       "deadline": null,
       "salary": "$175,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2326,7 +2326,7 @@
       "deadline": null,
       "salary": "$175,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2350,7 +2350,7 @@
       "deadline": null,
       "salary": "$300,000 - $300,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2374,7 +2374,7 @@
       "deadline": null,
       "salary": "$125,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2398,7 +2398,7 @@
       "deadline": null,
       "salary": "$115,000 - $115,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2422,7 +2422,7 @@
       "deadline": null,
       "salary": "$115,000 - $115,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2446,7 +2446,7 @@
       "deadline": null,
       "salary": "$115,000 - $115,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2470,7 +2470,7 @@
       "deadline": null,
       "salary": "$175,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2494,7 +2494,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2518,7 +2518,7 @@
       "deadline": null,
       "salary": "$275,000 - $275,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2542,7 +2542,7 @@
       "deadline": null,
       "salary": "$275,000 - $275,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2566,7 +2566,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2590,7 +2590,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2614,7 +2614,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -2638,7 +2638,7 @@
       "deadline": null,
       "salary": "$200,000 - $225,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -2662,7 +2662,7 @@
       "deadline": null,
       "salary": "$200,000 - $225,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -2686,7 +2686,7 @@
       "deadline": null,
       "salary": "$200,000 - $225,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -2710,7 +2710,7 @@
       "deadline": null,
       "salary": "$120,000 - $130,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -2734,7 +2734,7 @@
       "deadline": null,
       "salary": "$120,000 - $130,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -2758,7 +2758,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -2782,7 +2782,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -2806,7 +2806,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -2830,7 +2830,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -2854,7 +2854,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2878,7 +2878,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2902,7 +2902,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2926,7 +2926,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -2998,7 +2998,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -3046,7 +3046,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3070,7 +3070,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3094,7 +3094,7 @@
       "deadline": null,
       "salary": "$100,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -3118,7 +3118,7 @@
       "deadline": null,
       "salary": "$100,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -3142,7 +3142,7 @@
       "deadline": null,
       "salary": "$300,000 - $360,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -3166,7 +3166,7 @@
       "deadline": null,
       "salary": "$15,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -3190,7 +3190,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3214,7 +3214,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3238,7 +3238,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3262,7 +3262,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3286,7 +3286,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3310,7 +3310,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3334,7 +3334,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3358,7 +3358,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3382,7 +3382,7 @@
       "deadline": null,
       "salary": "$90,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -3406,7 +3406,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -3430,7 +3430,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -3453,7 +3453,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -3477,7 +3477,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -3500,7 +3500,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -3524,7 +3524,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -3547,7 +3547,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -3571,7 +3571,7 @@
       "deadline": null,
       "salary": "$925,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3595,7 +3595,7 @@
       "deadline": null,
       "salary": "$110,000 - $140,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3619,7 +3619,7 @@
       "deadline": null,
       "salary": "$925,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3643,7 +3643,7 @@
       "deadline": null,
       "salary": "$200,000 - $250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3667,7 +3667,7 @@
       "deadline": null,
       "salary": "$200,000 - $250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3691,7 +3691,7 @@
       "deadline": null,
       "salary": "$200,000 - $250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3715,7 +3715,7 @@
       "deadline": null,
       "salary": "$925,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3739,7 +3739,7 @@
       "deadline": null,
       "salary": "$250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3763,7 +3763,7 @@
       "deadline": null,
       "salary": "$275,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3787,7 +3787,7 @@
       "deadline": null,
       "salary": "$85,000 - $125,000",
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -3811,7 +3811,7 @@
       "deadline": null,
       "salary": "$65/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -3835,7 +3835,7 @@
       "deadline": null,
       "salary": "$65/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -3858,7 +3858,7 @@
       "deadline": null,
       "salary": "$175,000 - $250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -3882,7 +3882,7 @@
       "deadline": null,
       "salary": "$65/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -3906,7 +3906,7 @@
       "deadline": null,
       "salary": "$120,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -3930,7 +3930,7 @@
       "deadline": null,
       "salary": "$110,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -3954,7 +3954,7 @@
       "deadline": null,
       "salary": "$90,000 - $105,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -3978,7 +3978,7 @@
       "deadline": null,
       "salary": "$99,000 - $155,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -4002,7 +4002,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -4050,7 +4050,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4098,7 +4098,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4146,7 +4146,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -4170,7 +4170,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -4194,7 +4194,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -4218,7 +4218,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -4242,7 +4242,7 @@
       "deadline": null,
       "salary": "$75,000 - $90,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4266,7 +4266,7 @@
       "deadline": null,
       "salary": "$110,000 - $120,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4290,7 +4290,7 @@
       "deadline": null,
       "salary": "$100/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4314,7 +4314,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4338,7 +4338,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4362,7 +4362,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4386,7 +4386,7 @@
       "deadline": null,
       "salary": "$100/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4410,7 +4410,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4434,7 +4434,7 @@
       "deadline": null,
       "salary": "$100/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4458,7 +4458,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4482,7 +4482,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4506,7 +4506,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4530,7 +4530,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4554,7 +4554,7 @@
       "deadline": null,
       "salary": "$110,000 - $120,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4578,7 +4578,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4602,7 +4602,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4626,7 +4626,7 @@
       "deadline": null,
       "salary": "$110,000 - $120,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4650,7 +4650,7 @@
       "deadline": null,
       "salary": "$110,000 - $120,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4674,7 +4674,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4698,7 +4698,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4722,7 +4722,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4746,7 +4746,7 @@
       "deadline": null,
       "salary": "$100/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4770,7 +4770,7 @@
       "deadline": null,
       "salary": "$60,000 - $125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4794,7 +4794,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4818,7 +4818,7 @@
       "deadline": null,
       "salary": "$60,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4842,7 +4842,7 @@
       "deadline": null,
       "salary": "$60,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4866,7 +4866,7 @@
       "deadline": null,
       "salary": "$225,000 - $325,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -4890,7 +4890,7 @@
       "deadline": null,
       "salary": "$50,000 - $60,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4914,7 +4914,7 @@
       "deadline": null,
       "salary": "$200,000 - $220,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4938,7 +4938,7 @@
       "deadline": null,
       "salary": "$125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4962,7 +4962,7 @@
       "deadline": null,
       "salary": "$125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -4986,7 +4986,7 @@
       "deadline": null,
       "salary": "$125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5010,7 +5010,7 @@
       "deadline": null,
       "salary": "$125,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5034,7 +5034,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5058,7 +5058,7 @@
       "deadline": null,
       "salary": "$110,000 - $120,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -5082,7 +5082,7 @@
       "deadline": null,
       "salary": "$80,000 - $140,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5106,7 +5106,7 @@
       "deadline": null,
       "salary": "$200,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5130,7 +5130,7 @@
       "deadline": null,
       "salary": "$110,000 - $115,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5178,7 +5178,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5202,7 +5202,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5226,7 +5226,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -5250,7 +5250,7 @@
       "deadline": null,
       "salary": "$370/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5274,7 +5274,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -5298,7 +5298,7 @@
       "deadline": null,
       "salary": "$120,000 - $130,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -5322,7 +5322,7 @@
       "deadline": null,
       "salary": "$170,000 - $180,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -5346,7 +5346,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -5370,7 +5370,7 @@
       "deadline": null,
       "salary": "$120,000 - $130,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -5394,7 +5394,7 @@
       "deadline": null,
       "salary": "$170,000 - $180,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -5418,7 +5418,7 @@
       "deadline": null,
       "salary": "$100,000",
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -5441,7 +5441,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5464,7 +5464,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5487,7 +5487,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5533,10 +5533,33 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
+        "source:workday"
+      ],
+      "companyDetails": {
+        "website": null,
+        "description": "PNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:",
+        "logo": null
+      }
+    },
+    {
+      "jobId": "wsmm-workday-7f158bf5",
+      "title": "Associate Relationship Strategist - PNC Private Bank",
+      "company": "PNC Riverarch",
+      "location": "FL - Orlando (32801)",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/FL---Orlando-32801/Associate-Relationship-Strategist---PNC-Private-Bank_R214923-1",
+      "description": "<h3><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><b>Position Overview</b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3>At PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As an Associate Relationship Strategist  within PNC's Private Bank organization, you will be based in Orlando, FL.PNC is an in-office company that fosters a supportive culture where employees can thrive and achieve balance. We encourage candidates to connect with their recruiter and hiring manager to understand workplace expectations and ensure the role aligns with their goals.PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.<h3><b>Job Description</b></h3><ul><li><span>As directed, supports client management activities with clients and prospective clients. Helps coordinate team members and other PNC partners to deliver an exceptional client experience.</span></li><li><span>Helps support the development and execution of a relationship management plan.</span></li><li><span>Helps coordinate team members and other PNC partners to deliver an exceptional client experience.</span></li><li><span>Coordinates with team to determine action plan through thorough discovery of client needs to deliver an exceptional client experience.  Has sufficient knowledge of all business segment capabilities and offerings. Ensures a strong client commitment and advocacy by delivering proactive and responsive service to meet client goals.</span></li><li><span>Helps support a book of business. As directed, helps develop and execute strategies for proactively sourcing new relationships for the bank. Serves as a point of communication and contact with existing clients and prospects to ensure expansion opportunities are captured.</span></li><li><span>Manages risk through adherence to AMG policies and procedures. Works with risk partners to escalate client concerns to bring about quick resolution. Has sufficient knowledge of partner offerings to make business-appropriate introductions.</span></li><li><span>As directed, maintains timely, accurate and complete sales/client relationship management administration tasks as determined by the business. Helps ensure the execution of team processes (e.g. pre-call planning, post-call debriefs, relationship reviews).</span></li></ul><p>PNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:</p><ul><li><b>Customer Focused</b> - Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions.</li><li><b>Managing Risk</b> - Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC's Enterprise Risk Management Framework.</li></ul><h3><b>Qualifications</b></h3><p>Successful candidates must demonstrate appropriate knowledge, skills, and abilities for a role. Listed below are skills, competencies, work experience, education, and required <span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>certifications/licensures</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span> needed to be successful in this position.</p><h3><b>Preferred Skills</b></h3>Book Of Business, Client Relationship Building, Credit, Credit Products, Customer Engagement, Decision Making, Financial Analysis, Identifying Sales Opportunities<h3><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><b>Competencies</b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3>Client Relationship Management, Communicating for Impact, Decision Making and Critical Thinking, Influencing, Managing Multiple Priorities, Products and Services, Understanding Customer Needs, Value Selling<h3><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><b>Work Experience</b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3>Roles at this level typically require a university / college degree, with 2+ years of relevant professional experience. In lieu of a degree, a comparable combination of education, job specific certification(s), and experience (including military service) may be considered.<h3><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><b>Education</b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3>Bachelors<h3><b>Certifications</b></h3>No Required Certification(s)<h3><b>Licenses</b></h3>No Required License(s)<h3><b>Benefits</b></h3>PNC offers a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include: medical/prescription drug coverage (with a Health Savings Account feature), dental and vision options; employee and spouse/child life insurance; short and long-term disability protection; 401(k) with PNC match, pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption, surrogacy, and doula reimbursement; educational assistance, including select programs fully paid; a robust wellness program with financial incentives.In addition, PNC generally provides the following paid time off, depending on your eligibility: maternity and/or parental leave; up to 11 paid holidays each year; 9 occasional absence days each year, unless otherwise required by law; between 15 to 25 vacation days each year, depending on career level; and years of service.<p>To learn more about these and other programs, including benefits for full time and part-time employees, visit <a href=\"http://pncthrive.com\" target=\"_blank\"><span><u>pncthrive.com</u></span></a>.</p><h3><b>Disability Accommodations Statement</b></h3><p><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>If an accommodation is required to participate in the application process, please contact us via email at <a href=\"mailto:AccommodationRequest@pnc.com\" target=\"_blank\"><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>AccommodationRequest@pnc.com</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></spa",
+      "postingDate": "Posted TodayZ",
+      "deadline": null,
+      "salary": null,
+      "jobType": "fullTime",
+      "isRemote": false,
+      "category": "Finance",
+      "jobTags": [
+        "Other",
         "source:workday"
       ],
       "companyDetails": {
@@ -5556,7 +5579,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -5580,7 +5603,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5604,7 +5627,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -5628,7 +5651,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5652,7 +5675,7 @@
       "deadline": null,
       "salary": "$112,500",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5676,7 +5699,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5700,7 +5723,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5724,7 +5747,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5748,7 +5771,7 @@
       "deadline": null,
       "salary": "$64,900 - $77,800",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5772,7 +5795,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5796,7 +5819,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5820,7 +5843,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -5844,7 +5867,7 @@
       "deadline": null,
       "salary": "$160,000 - $180,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -5868,7 +5891,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -5892,7 +5915,7 @@
       "deadline": null,
       "salary": "$105,000 - $112,500",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5916,7 +5939,7 @@
       "deadline": null,
       "salary": "$723,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5940,7 +5963,7 @@
       "deadline": null,
       "salary": "$723,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -5964,7 +5987,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -5988,7 +6011,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6012,7 +6035,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6036,7 +6059,7 @@
       "deadline": null,
       "salary": "$112,500",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6060,7 +6083,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6084,7 +6107,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6108,7 +6131,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6132,7 +6155,7 @@
       "deadline": null,
       "salary": "$64,900 - $77,800",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6156,7 +6179,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6180,7 +6203,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6204,7 +6227,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -6228,7 +6251,7 @@
       "deadline": null,
       "salary": "$160,000 - $180,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -6252,7 +6275,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -6276,7 +6299,7 @@
       "deadline": null,
       "salary": "$105,000 - $112,500",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6300,7 +6323,7 @@
       "deadline": null,
       "salary": "$723,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6324,7 +6347,7 @@
       "deadline": null,
       "salary": "$723,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6348,7 +6371,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6372,7 +6395,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6396,7 +6419,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6419,7 +6442,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6442,7 +6465,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6465,7 +6488,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6511,7 +6534,7 @@
       "deadline": null,
       "salary": "$115,000 - $140,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -6534,7 +6557,7 @@
       "deadline": null,
       "salary": "$150,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -6557,7 +6580,7 @@
       "deadline": null,
       "salary": "$25/hr - $30/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -6580,7 +6603,7 @@
       "deadline": null,
       "salary": "$100,000 - $105,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6603,7 +6626,7 @@
       "deadline": null,
       "salary": "$135,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6626,7 +6649,7 @@
       "deadline": null,
       "salary": "$160,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6649,7 +6672,7 @@
       "deadline": null,
       "salary": "$135,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6741,7 +6764,7 @@
       "deadline": null,
       "salary": "$230,000 - $260,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -6764,7 +6787,7 @@
       "deadline": null,
       "salary": "$100,000 - $135,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6787,7 +6810,7 @@
       "deadline": null,
       "salary": "$96,200 - $158,800",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -6810,7 +6833,7 @@
       "deadline": null,
       "salary": "$95/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -6833,7 +6856,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -6857,7 +6880,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -6881,7 +6904,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -6905,7 +6928,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -6929,7 +6952,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -6953,7 +6976,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -6977,7 +7000,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -7001,7 +7024,7 @@
       "deadline": null,
       "salary": "$160,000 - $200,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7024,7 +7047,7 @@
       "deadline": null,
       "salary": "$220,000 - $300,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7047,7 +7070,7 @@
       "deadline": null,
       "salary": "$135,000 - $155,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7070,7 +7093,7 @@
       "deadline": null,
       "salary": "$185,000 - $205,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7093,7 +7116,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7116,7 +7139,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7139,7 +7162,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7162,7 +7185,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7185,7 +7208,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7208,7 +7231,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7231,7 +7254,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7254,7 +7277,7 @@
       "deadline": null,
       "salary": "$115,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7277,7 +7300,7 @@
       "deadline": null,
       "salary": "$150,000 - $175,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7300,7 +7323,7 @@
       "deadline": null,
       "salary": "$120,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7323,7 +7346,7 @@
       "deadline": null,
       "salary": "$130,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7346,7 +7369,7 @@
       "deadline": null,
       "salary": "$155,000 - $185,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7369,7 +7392,7 @@
       "deadline": null,
       "salary": "$100,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7392,7 +7415,7 @@
       "deadline": null,
       "salary": "$481/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7415,7 +7438,7 @@
       "deadline": null,
       "salary": "$80/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7438,7 +7461,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7461,7 +7484,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7484,7 +7507,7 @@
       "deadline": null,
       "salary": "$140,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -7507,7 +7530,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -7530,7 +7553,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7553,7 +7576,7 @@
       "deadline": null,
       "salary": "$120,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7576,7 +7599,7 @@
       "deadline": null,
       "salary": "$100,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7599,7 +7622,7 @@
       "deadline": null,
       "salary": "$215/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7622,7 +7645,7 @@
       "deadline": null,
       "salary": "$140,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7645,7 +7668,7 @@
       "deadline": null,
       "salary": "$61/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -7668,7 +7691,7 @@
       "deadline": null,
       "salary": "$125,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7691,7 +7714,7 @@
       "deadline": null,
       "salary": "$205/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7714,7 +7737,7 @@
       "deadline": null,
       "salary": "$215/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -7737,7 +7760,7 @@
       "deadline": null,
       "salary": "$95,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7760,7 +7783,7 @@
       "deadline": null,
       "salary": "$80,000 - $85,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7783,7 +7806,7 @@
       "deadline": null,
       "salary": "$2,100,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7806,7 +7829,7 @@
       "deadline": null,
       "salary": "$215/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7829,7 +7852,7 @@
       "deadline": null,
       "salary": "$140,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7852,7 +7875,7 @@
       "deadline": null,
       "salary": "$61/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -7875,7 +7898,7 @@
       "deadline": null,
       "salary": "$125,000 - $150,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7898,7 +7921,7 @@
       "deadline": null,
       "salary": "$205/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -7921,7 +7944,7 @@
       "deadline": null,
       "salary": "$215/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -7944,7 +7967,7 @@
       "deadline": null,
       "salary": "$95,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -7967,7 +7990,7 @@
       "deadline": null,
       "salary": "$80,000 - $85,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -7990,7 +8013,7 @@
       "deadline": null,
       "salary": "$2,100,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -8013,7 +8036,7 @@
       "deadline": null,
       "salary": "$5,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -8036,7 +8059,7 @@
       "deadline": null,
       "salary": "$250,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -8059,7 +8082,7 @@
       "deadline": null,
       "salary": "$125,000 - $200,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8082,7 +8105,7 @@
       "deadline": null,
       "salary": "$5,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -8105,7 +8128,7 @@
       "deadline": null,
       "salary": "$115,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8128,7 +8151,7 @@
       "deadline": null,
       "salary": "$140,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -8151,7 +8174,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -8174,7 +8197,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -8197,7 +8220,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -8220,7 +8243,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8243,7 +8266,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -8266,7 +8289,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8289,7 +8312,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -8312,7 +8335,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Sales & Trading",
       "jobTags": [
         "S&T",
@@ -8335,7 +8358,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -8358,7 +8381,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -8381,7 +8404,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Equity Research",
       "jobTags": [
         "ER",
@@ -8404,7 +8427,7 @@
       "deadline": null,
       "salary": "$136,000 - $204,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -8427,7 +8450,7 @@
       "deadline": null,
       "salary": "$79,000 - $111,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8450,7 +8473,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -8473,7 +8496,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -8496,7 +8519,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -8519,7 +8542,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -8542,7 +8565,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -8565,7 +8588,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -8574,6 +8597,29 @@
       "companyDetails": {
         "website": null,
         "description": "As one of the world’s leading independent global investment firms, Invesco is dedicated to rethinking possibilities for our clients. By delivering the combined power of our distinctive investment management capabilities, we provide a wide range of investment strategies and vehicles to our clients around the world. If you're looking for challenging work, intelligent colleagues, and exposure across ",
+        "logo": null
+      }
+    },
+    {
+      "jobId": "wsmm-workday-5c78edf7",
+      "title": "Senior Director",
+      "company": "Invesco Private Capital",
+      "location": "Tokyo, Japan",
+      "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Tokyo-Japan/Senior-Director_R-13591",
+      "description": "<h3><span><b>About Invesco</b></span></h3><p><span>As one of the world’s leading independent global investment firms, Invesco is dedicated to rethinking possibilities for ourclients. By delivering the combined power of our distinctive investment management capabilities, we provide a wide range of investment strategies and vehicles to our clients around the world. If you're looking for challenging work, intelligent colleagues, and exposure across a global footprint, come explore your potential at Invesco.</span></p><h3><span><b>What's in it for you?</b></span></h3><p><span>Our people are at the very core of our success. Invesco employees get more out of life through our comprehensive compensation and benefit offerings including: </span></p><ul><li><p><span>Generous annual leave plus </span><span>f</span><span>lexible paid time off</span></p></li><li><p><span>Hybrid work schedule </span></p></li><li><p><span>Learning and development programs</span></p></li><li><p><span>Health &amp; wellbeing benefits </span></p></li><li><p><span>Parental Leave benefits </span></p></li><li><p><span>Employee stock purchase plan (if applicable in your region)</span></p></li></ul><h3><span><b>Job Description</b></span></h3><p><b>Key Responsibilities / Duties</b></p><p>(List major activities that this job performs, listing similar duties together)</p><p>   Lead the sourcing strategy and execution for real estate investment opportunities</p><p>   Develop investment acquisition plans and manage internal approval processes</p><p>   Review and approve pricing models and cash flow underwriting</p><p>   Oversee due diligence processes and risk assessments</p><p>   Direct acquisition negotiations and finalize contractual terms</p><p>   Supervise closing activities including legal, financial, and tax aspects</p><p>   Manage loan structuring and negotiations with financial institutions</p><p>   Propose and structure real estate-related investment products</p><p>   Mentor and manage investment team members and oversee performance</p><p><b>Work Experience / Knowledge / Education / Formal Qualifications</b></p><p>Work Experience / Knowledge:</p><p>   Minimum 15 years of experience in real estate investment</p><p>   Strong expertise in deal sourcing, underwriting, acquisition negotiations, and closing</p><p>   In-depth understanding of economic and real estate market trends</p><p>   Proficiency in preparing investment committee memo and financial models</p><p>   Experience in negotiating with domestic and international financial institutions</p><p>Formal Education:</p><p>   Bachelor’s degree required; MBA or real estate certifications preferred</p><p>License / Registration / Certification:</p><p>   N/A</p><p><b>Skills / Other Personal Attributes</b></p><p>  Strong leadership and team management skills</p><p>  Strategic thinking and problem-solving capabilities</p><p>  Excellent communication skills in both Japanese and English</p><p>  Ability to manage multiple projects simultaneously</p><p>  High ethical standards and sound decision-making abilities</p><h3><b><span>Full Time / Part Time</span></b></h3>Full time<h3><span><b>Worker Type</b></span></h3>Employee<h3><b><span>Job Exempt (Yes / No)</span></b></h3>Yes<h3><span><b>Workplace Model</b></span></h3><p><br/>At Invesco, our workplace model supports our culture and meets the needs of our clients while providing flexibility our employees value. As a full-time employee, compliance with the workplace policy means working with your direct manager to create a schedule where you will work in your designated office at least four days a week, with one day working outside an Invesco office.  </p><div><p><span><span>Invesco's culture of inclusivity and its commitment to diversity in the workplace are demonstrated through our </span><span>people</span><span> practices. We are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender, gender identity, sexual orientation, marital status, national origin, citizenship status, disability, age, or veteran status. Our equal opportunity employment efforts comply with all applicable local laws governing non-discrimination in employment.</span></span></p></div><div><p><span><span>Personal data provided by job applicants will be used strictly in accordance with our personal data policy and for recruitment purposes only. Candidates not notified within twelve weeks may consider their application unsuccessful. All related information will be kept in our file </span><span>for </span><span>future recruitment purposes. When there are vacancies in our subsidiary or associate companies, we may transfer the application to them for consideration of employment. Under the Personal Data (Privacy) Ordinance, job applicants have a right to request access to, and to request correction of, Personal Data in relation to the application. If job applicants wish to exercise these rights, they should contact the Human Resources department.</span></span></p></div>",
+      "postingDate": "Posted TodayZ",
+      "deadline": null,
+      "salary": null,
+      "jobType": "fullTime",
+      "isRemote": false,
+      "category": "Asset Management",
+      "jobTags": [
+        "AM",
+        "source:workday"
+      ],
+      "companyDetails": {
+        "website": null,
+        "description": "As one of the world’s leading independent global investment firms, Invesco is dedicated to rethinking possibilities for ourclients. By delivering the combined power of our distinctive investment management capabilities, we provide a wide range of investment strategies and vehicles to our clients around the world. If you're looking for challenging work, intelligent colleagues, and exposure across a",
         "logo": null
       }
     },
@@ -8588,7 +8634,7 @@
       "deadline": null,
       "salary": "$110,000 - $120,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8611,7 +8657,7 @@
       "deadline": null,
       "salary": "$40/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8634,7 +8680,7 @@
       "deadline": null,
       "salary": "$125,000 - $147,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -8657,7 +8703,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -8680,7 +8726,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -8703,7 +8749,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8726,7 +8772,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Finance",
       "jobTags": [
         "Other",
@@ -8749,7 +8795,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -8772,7 +8818,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8795,7 +8841,7 @@
       "deadline": null,
       "salary": "$110,000 - $135,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8818,7 +8864,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -8841,7 +8887,7 @@
       "deadline": null,
       "salary": "$190,000 - $200,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8864,7 +8910,7 @@
       "deadline": null,
       "salary": "$44/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8887,7 +8933,7 @@
       "deadline": null,
       "salary": "$250,000 - $280,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8910,7 +8956,7 @@
       "deadline": null,
       "salary": "$160,000 - $185,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8933,7 +8979,7 @@
       "deadline": null,
       "salary": "$150,000 - $167,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8956,7 +9002,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -8979,7 +9025,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -9002,7 +9048,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9025,7 +9071,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9048,7 +9094,7 @@
       "deadline": null,
       "salary": "$220/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9071,7 +9117,7 @@
       "deadline": null,
       "salary": "$150,000 - $160,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -9094,7 +9140,7 @@
       "deadline": null,
       "salary": "$150,000 - $160,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -9117,7 +9163,7 @@
       "deadline": null,
       "salary": "$203/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -9140,7 +9186,7 @@
       "deadline": null,
       "salary": "$28/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Real Estate",
       "jobTags": [
         "RE",
@@ -9163,7 +9209,7 @@
       "deadline": null,
       "salary": "$270/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -9186,7 +9232,7 @@
       "deadline": null,
       "salary": "$300,000 - $380,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Venture Capital",
       "jobTags": [
         "VC",
@@ -9209,7 +9255,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9232,7 +9278,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9255,7 +9301,7 @@
       "deadline": null,
       "salary": "$260/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Venture Capital",
       "jobTags": [
         "VC",
@@ -9278,7 +9324,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9301,7 +9347,7 @@
       "deadline": null,
       "salary": "$11/hr",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Hedge Funds",
       "jobTags": [
         "HF",
@@ -9324,7 +9370,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Asset Management",
       "jobTags": [
         "AM",
@@ -9347,7 +9393,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9370,7 +9416,7 @@
       "deadline": null,
       "salary": "$130,000 - $165,000",
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9538,7 +9584,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9562,7 +9608,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -9610,7 +9656,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9634,7 +9680,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9658,7 +9704,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9682,7 +9728,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9706,7 +9752,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9754,7 +9800,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9826,7 +9872,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9850,7 +9896,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "internship",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -9888,6 +9934,30 @@
       }
     },
     {
+      "jobId": "wsmm-searchfunder-460b6b75",
+      "title": "Search Fund Intern - Family Office Investing & M&A",
+      "company": "Caprae Capital Partners",
+      "location": "Chicago, IL",
+      "url": "https://searchfunder.com/post/search-fund-intern-21",
+      "description": "10-15 hours/week internship in deal sourcing, financial analysis, and portfolio support across a tech-enabled family office platform. High performers may be offered part-time or full-time roles; no compensation or application instructions provided in post.",
+      "postingDate": "2025-08-27T00:00:00Z",
+      "deadline": null,
+      "salary": null,
+      "jobType": "internship",
+      "isRemote": false,
+      "category": "Investment Banking",
+      "jobTags": [
+        "IB",
+        "Search Fund / Independent Sponsor",
+        "source:searchfunder"
+      ],
+      "companyDetails": {
+        "website": null,
+        "description": null,
+        "logo": null
+      }
+    },
+    {
       "jobId": "wsmm-insight_days-e653da12",
       "title": "Possibilities Summit",
       "company": "Goldman Sachs",
@@ -9898,7 +9968,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -9970,7 +10040,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -9994,7 +10064,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10018,7 +10088,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10066,7 +10136,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10090,7 +10160,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10114,7 +10184,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10138,7 +10208,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10162,7 +10232,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10186,7 +10256,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10210,7 +10280,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10234,7 +10304,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10258,7 +10328,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10282,7 +10352,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10306,7 +10376,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10330,7 +10400,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10354,7 +10424,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10378,7 +10448,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10402,7 +10472,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10426,7 +10496,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10450,7 +10520,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -10474,7 +10544,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -10498,7 +10568,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Private Equity",
       "jobTags": [
         "PE",
@@ -10522,7 +10592,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10546,7 +10616,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10642,7 +10712,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10666,7 +10736,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10690,7 +10760,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10714,7 +10784,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10738,7 +10808,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10762,7 +10832,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10786,7 +10856,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10810,7 +10880,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10834,7 +10904,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
@@ -10858,7 +10928,7 @@
       "deadline": null,
       "salary": null,
       "jobType": "fullTime",
-      "isRemote": null,
+      "isRemote": false,
       "category": "Investment Banking",
       "jobTags": [
         "IB",
