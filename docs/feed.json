@@ -1,6 +1,6 @@
 {
   "feedId": "wsmm-high-finance",
-  "updatedAt": "2026-08-10T07:43:39Z",
+  "updatedAt": "2026-08-11T18:33:00Z",
   "jobs": [
     {
       "jobId": "wsmm-workday-e38badd7",
@@ -3619,6 +3619,32 @@
       "companyDetails": {
         "website": null,
         "description": "Agentis Capital is a financial advisory firm focused on infrastructure finance, project development, and mid-market transactions. Founded in 2009 and headquartered in Canada, it advises on public-private partnerships and large-scale investments in transport, energy, and social infrastructure. With offices in Toronto, Vancouver, London, and Mumbai, the firm serves clients globally across both publi",
+        "logo": null
+      }
+    },
+    {
+      "jobId": "wsmm-insight_days-064f15f3",
+      "title": "Emerging Leaders Series",
+      "company": "Goldman Sachs",
+      "location": "United States",
+      "url": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/emerging-leaders-series",
+      "description": "<p>Americas program for second-year students graduating Dec. 2028-Jun. 2029. Applications are expected to open in Fall 2026; Goldman Sachs has not published the exact opening date or deadline. Program timing: December 2026. Monitor the official page for the live application.</p>\n<p style=\"margin-top:1em;padding:8px 12px;background:#f0f4f8;border-left:3px solid #4a90d9;font-size:0.9em;\"><strong>Note for applicants:</strong> This listing was sourced through our Insight Days database, which may maintain a more current application link if the one above is outdated.</p>",
+      "postingDate": "2026-08-11T00:00:00Z",
+      "deadline": null,
+      "salary": null,
+      "jobType": "fullTime",
+      "isRemote": false,
+      "category": "Investment Banking",
+      "jobTags": [
+        "IB",
+        "Insight Day / Spring Week",
+        "source:insight_days"
+      ],
+      "confidence": 1.0,
+      "score": 98,
+      "companyDetails": {
+        "website": null,
+        "description": null,
         "logo": null
       }
     },
