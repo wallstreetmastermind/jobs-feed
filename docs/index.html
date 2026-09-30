@@ -125,6 +125,14 @@
   var PAGE=60, shown=PAGE, jobs=[], view=[];
   var $=function(s){return document.querySelector(s)};
   function esc(s){return (s||"").replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+  function safeUrl(u){
+    if(typeof u!=="string"||u!==u.trim()||/[\x00-\x1f\x7f\\]/.test(u))return "";
+    try{var p=new URL(u);
+      if(p.protocol==="mailto:"&&p.pathname.indexOf("@")>0)return u;
+      if((p.protocol==="https:"||p.protocol==="http:")&&p.hostname&&!p.username&&!p.password)return u;
+    }catch(e){}
+    return "";
+  }
   function isGeneric(u){if(!u)return true;u=u.split("#")[0];return GENERIC.some(function(r){return r.test(u)})}
   function rel(d){if(!d)return"";var t=Date.parse(d);if(isNaN(t))return"";var days=Math.floor((Date.now()-t)/864e5);
     if(days<=0)return"today";if(days===1)return"1 day ago";if(days<30)return days+" days ago";
@@ -133,7 +141,7 @@
   function card(j){
     var c=CATCOLORS[j.category]||["#eef1f5","#455066"];
     var loc=esc(j.location||"—"); if(/^\d+ locations?$/i.test(j.location||""))loc="Multiple locations";
-    var soft=isGeneric(j.url);
+    var url=safeUrl(j.url), soft=isGeneric(url);
     var tags=(j.jobTags||[]).filter(function(t){return !/opening/i.test(t)}).slice(0,3);
     var salary=j.salary?'<span>💵 '+esc(j.salary)+'</span>':'';
     var posted=rel(j.postingDate)?'<span>🗓 '+rel(j.postingDate)+'</span>':'';
@@ -144,8 +152,8 @@
       '<div class="meta"><span>📍 '+loc+'</span>'+
         '<span>'+(j.jobType==="internship"?"Internship":"Full-time")+'</span>'+salary+posted+'</div>'+
       (tags.length?'<div class="tags">'+tags.map(function(t){return '<span class="tag">'+esc(t)+'</span>'}).join("")+'</div>':'')+
-      '<a class="apply'+(soft?' soft':'')+'" href="'+esc(j.url||"#")+'" target="_blank" rel="noopener">'+
-        (soft?'Search on source ↗':'View &amp; apply →')+'</a>'+
+      (url?'<a class="apply'+(soft?' soft':'')+'" href="'+esc(url)+'" target="_blank" rel="noopener">'+
+        (soft?'Search on source ↗':'View &amp; apply →')+'</a>':'<span class="apply soft">Application link unavailable</span>')+
     '</div>';
   }
 
