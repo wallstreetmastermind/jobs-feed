@@ -1,6 +1,6 @@
 {
   "feedId": "wsmm-high-finance",
-  "updatedAt": "2026-10-05T14:21:44Z",
+  "updatedAt": "2026-10-05T18:02:13Z",
   "jobs": [
     {
       "jobId": "wsmm-workday-ca9fd08e",
@@ -15635,12 +15635,12 @@
       "salary": null,
       "jobType": "fullTime",
       "isRemote": false,
-      "category": "Private Credit",
+      "category": "Private Equity",
       "jobTags": [
-        "PC",
+        "PE",
         "source:workday"
       ],
-      "confidence": 0.98,
+      "confidence": 0.94,
       "score": 92,
       "companyDetails": {
         "website": null,
@@ -43531,6 +43531,32 @@
       }
     },
     {
+      "jobId": "wsmm-adventis-b4675a87",
+      "title": "Summer 2027 Commercial Middle Market Internship - Costa Mesa",
+      "company": "Fifth Third Bank",
+      "location": "Newport Beach, CA",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Newport-Beach-CA/Summer-2027-Commercial-Middle-Market-Internship---Costa-Mesa_R72039?q=summer",
+      "description": "<p><strong>Summer 2027 Commercial Middle Market Internship - Costa Mesa</strong></p><p>Commercial Banking. Class of 2028. All Candidates. 2027 Commercial Banking Summer Analyst</p>\n<p style=\"margin-top:1em;padding:8px 12px;background:#f0f4f8;border-left:3px solid #4a90d9;font-size:0.9em;\"><strong>Note for applicants:</strong> This listing was sourced through Adventis (adventiscg.com), which may maintain a more current application link if the one above is outdated.</p>",
+      "postingDate": "2026-08-25T00:00:00Z",
+      "deadline": null,
+      "salary": null,
+      "jobType": "internship",
+      "isRemote": false,
+      "category": "Other Finance",
+      "jobTags": [
+        "Other",
+        "Commercial Banking",
+        "source:adventis"
+      ],
+      "confidence": 1.0,
+      "score": 80,
+      "companyDetails": {
+        "website": null,
+        "description": "Summer 2027 Commercial Middle Market Internship - Costa Mesa",
+        "logo": null
+      }
+    },
+    {
       "jobId": "wsmm-workday-e4cf36b3",
       "title": "Senior Analyst, Valuations",
       "company": "Carlyle",
@@ -49740,32 +49766,6 @@
       "companyDetails": {
         "website": null,
         "description": "Commercial Banking. Class of 2028. All Candidates. 2027 Commercial Banking Dallas Summer Analyst",
-        "logo": null
-      }
-    },
-    {
-      "jobId": "wsmm-adventis-b4675a87",
-      "title": "Summer 2027 Commercial Middle Market Internship - Costa Mesa",
-      "company": "Fifth Third Bank",
-      "location": "Newport Beach, CA",
-      "url": "https://www.adventiscg.com/internship-database#ref=5c2b8af22f",
-      "description": "<p style=\"margin:1em 0;padding:10px 14px;background:#fff4e6;border-left:3px solid #f08c00;\"><strong>Note:</strong> The original application link is not currently resolving. Search for this role (\"Summer 2027 Commercial Middle Market Internship - Costa Mesa\" at Fifth Third Bank) on <a href=\"https://www.adventiscg.com/internship-database\" target=\"_blank\" rel=\"noopener\">the Adventis Internship Database</a>, where the posting is actively curated.</p><p><strong>Summer 2027 Commercial Middle Market Internship - Costa Mesa</strong></p><p>Commercial Banking. Class of 2028. All Candidates. 2027 Commercial Banking Summer Analyst</p>",
-      "postingDate": "2026-08-25T00:00:00Z",
-      "deadline": null,
-      "salary": null,
-      "jobType": "internship",
-      "isRemote": false,
-      "category": "Other Finance",
-      "jobTags": [
-        "Other",
-        "Commercial Banking",
-        "source:adventis"
-      ],
-      "confidence": 1.0,
-      "score": 58,
-      "companyDetails": {
-        "website": null,
-        "description": "Summer 2027 Commercial Middle Market Internship - Costa Mesa",
         "logo": null
       }
     },
