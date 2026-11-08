@@ -1,8 +1,7 @@
 {
  "task_id": "jobs-database-update",
- "window": "2026-11-07",
+ "window": "2026-11-08",
  "host": "wsmm-oracle-arm-free-12gb",
- "status": "DONE",
- "claimed_at": "2026-11-07T13:00:02.347011+00:00",
- "completed_at": "2026-11-07T14:04:36.112742+00:00"
+ "status": "RUNNING",
+ "claimed_at": "2026-11-08T13:00:02.801631+00:00"
 }
